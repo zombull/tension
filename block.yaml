@@ -1,20 +1,20 @@
 date: 04.10.2019
 10mm flat:
   three finger drag:
-    left:  40
-    right: 40
+    left:  -1
+    right: -1
 
   open hand:
+    left:  75
+    right: 75
+
+  full crimp:
     left:  72.5
     right: 72.5
 
-  full crimp:
-    left:  70
-    right: 70
-
   half crimp:
     left:  67.5
-    right: 67.5
+    right: 70
 
 7mm incut:
   three finger drag:
@@ -33,10 +33,10 @@ date: 04.10.2019
     left:  60
     right: 60
 
-10mm flat:
+20mm flat:
   three finger drag:
-    left:  -1
-    right: -1
+    left:  67.5
+    right: 67.5
 
   open hand:
     left:  -1
@@ -49,3 +49,14 @@ date: 04.10.2019
   half crimp:
     left:  -1
     right: -1
+
+pinch:
+  two block:
+    left:  37.5
+    right: 40
+  three block:
+    left:  35
+    right: 35
+  four block:
+    left:  35
+    right: 35
