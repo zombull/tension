@@ -1,3 +1,11 @@
+min_grips: 3
+max_grips: 5
+sets: 1
+reps: 5
+work: 10
+rest: 120
+cooldown: 180
+
 10mm flat:
   three finger drag:
     left:  -1
