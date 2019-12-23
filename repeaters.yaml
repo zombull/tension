@@ -8,8 +8,8 @@ cooldown: 180
 
 10mm flat:
   open hand:
-    left:  52.5
-    right: 52.5
+    left:  55
+    right: 55
 
   full crimp:
     left:  -1
@@ -22,19 +22,19 @@ cooldown: 180
 
 20mm flat:
   three finger drag:
-    left:  50
-    right: 50
+    left:  52.5
+    right: 52.5
 
 pinch:
   two block:
-    left:  32.5
-    right: 32.5
+    left:  35
+    right: 35
   three block:
-    left:  32.5
-    right: 32.5
+    left:  35
+    right: 35
   four block:
-    left:  32.5
-    right: 32.5
+    left:  35
+    right: 35
 
 mono:
   middle:
