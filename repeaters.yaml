@@ -27,13 +27,13 @@ cooldown: 180
 
 pinch:
   two block:
-    left:  35
+    left:  32.5
     right: 35
   three block:
-    left:  35
+    left:  32.5
     right: 35
   four block:
-    left:  35
+    left:  32.5
     right: 35
 
 mono:
