@@ -12,8 +12,8 @@ cooldown: 180
     right: -1
 
   open hand:
-    left:  77.5
-    right: 77.5
+    left:  80
+    right: 80
 
   full crimp:
     left:  72.5
@@ -42,8 +42,8 @@ cooldown: 180
 
 20mm flat:
   three finger drag:
-    left:  70
-    right: 70
+    left:  75
+    right: 75
 
   open hand:
     left:  -1
