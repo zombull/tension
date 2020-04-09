@@ -42,8 +42,8 @@ cooldown: 180
 
 20mm flat:
   three finger drag:
-    left:  75
-    right: 75
+    left:  77.5
+    right: 77.5
 
   open hand:
     left:  -1
@@ -54,8 +54,8 @@ cooldown: 180
     right: -1
 
   half crimp:
-    left:  -1
-    right: -1
+    left:  82.5
+    right: 82.5
 
 pinch:
   two block:
