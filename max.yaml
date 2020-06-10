@@ -20,8 +20,8 @@ cooldown: 180
     right: 72.5
 
   half crimp:
-    left:  67.5
-    right: 70
+    left:  82.5
+    right: 82.5
 
 7mm incut:
   three finger drag:
@@ -54,8 +54,8 @@ cooldown: 180
     right: -1
 
   half crimp:
-    left:  82.5
-    right: 82.5
+    left:  92.5
+    right: 92.5
 
 pinch:
   two block:
