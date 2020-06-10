@@ -8,8 +8,8 @@ cooldown: 180
 
 10mm flat:
   open hand:
-    left:  60
-    right: 60
+    left:  62.5
+    right: 62.5
 
   full crimp:
     left:  -1
@@ -22,8 +22,8 @@ cooldown: 180
 
 20mm flat:
   three finger drag:
-    left:  55
-    right: 55
+    left:  62.5
+    right: 62.5
 
 25mm pocket:
   two finger pocket:
